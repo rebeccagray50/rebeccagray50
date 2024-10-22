@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rebeccagray50
-- 👀 I’m interested in web development, machine learning and security. 
+- 👀 I’m interested in data science & management, web dev, and cybersecurity. 
 - 🌱 I’m currently studying for my BSc Computer Science at the University of Surrey. 
 - 💞️ I’m looking for year-long industrial placements. 
 - 📫 rebeccagray05@outlook.com
