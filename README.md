@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rebeccagray50
 - 👀 I’m interested in data science & management, web dev, and cybersecurity. 
-- 🌱 I’m currently studying for my BSc Computer Science at the University of Surrey. 
-- 💞️ I’m looking for year-long industrial placements. 
+- 🌱 I’m currently studying for my BSc Hons Computer Science at the University of Surrey. 
 - 📫 rebeccagray05@outlook.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a pet tortoise!
