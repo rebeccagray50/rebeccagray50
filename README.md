@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rebeccagray50
-- 👀 I’m interested in data science & management, web dev, and cybersecurity. 
+- 👀 I’m interested in data science & management, and cybersecurity. 
 - 🌱 I’m currently studying for my BSc Hons Computer Science at the University of Surrey. 
 - 📫 rebeccagray05@outlook.com
 - 😄 Pronouns: she/her
